@@ -1,0 +1,86 @@
+ .h1{
+    position: absolute;
+    font-style: normal;
+    top:40px;
+    left: 624px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+   
+}
+.task{
+    position: relative;
+    
+}
+.p1{
+    position: absolute;
+    height: 76px;
+    height: 76px;
+    top: 180px;
+    left: 30px;
+    right: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+    font-style: normal;
+    color: #45338D;
+    
+}
+.bold{
+    font-weight: 800;
+}
+.italic{
+    font-style: italic;
+}
+.p2{
+    position: absolute;
+    top: 300px;
+    left: 30px;
+    right: 30px;
+    background: rgba(204, 60, 60, 0.32);
+    padding: 15px 15px 15px 20px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    text-align: justify;
+    font-size: 14px;
+    color: #E2296C;
+    
+}
+.underline{
+    text-decoration-line: underline;
+}
+.color{
+    color: #fff;
+}
+.image{
+    position: absolute;
+    width:96%;
+    left: 6px;
+    right: 30px;
+
+    
+}
+.relative{
+    position: relative;
+    top: 440px;
+    left: 25px;
+    right: 30px;
+}.p3{
+    position: absolute;
+    width: 330px;
+    height: 125px;
+    left: 15px;
+    top: 30px;
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    font-style: italic;
+}
+.border{
+    position: relative;
+    top: 705px;
+    left: 30px;
+    border: 2px solid #36B561;
+    padding: 15px;
+    width: 623px;
+    height: 164px;
+    text-align: center;
+}
